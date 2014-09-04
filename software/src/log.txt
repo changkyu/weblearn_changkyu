@@ -1,0 +1,374 @@
+................*........***
+optimization finished, #iter = 246
+Objective value = -2.596377
+nSV = 65227
+Accuracy = 70.1471% (49103/70000)
+Accuracy = 68.6214% (49264/71791)
+....................................................................................................
+optimization finished, #iter = 1000
+
+WARNING: reaching max number of iterations
+Using -s 2 may be faster (also see FAQ)
+
+Objective value = -25.924506
+nSV = 65438
+Accuracy = 70.1157% (49081/70000)
+Accuracy = 68.5156% (49188/71791)
+....................................................................................................
+optimization finished, #iter = 1000
+
+WARNING: reaching max number of iterations
+Using -s 2 may be faster (also see FAQ)
+
+Objective value = -146.229070
+nSV = 67565
+Accuracy = 64.8943% (45426/70000)
+Accuracy = 62.3435% (44757/71791)
+....................................................................................................
+optimization finished, #iter = 1000
+
+WARNING: reaching max number of iterations
+Using -s 2 may be faster (also see FAQ)
+
+Objective value = -224.087207
+nSV = 67978
+Accuracy = 61.4557% (43019/70000)
+Accuracy = 61.484% (44140/71791)
+....................................................................................................
+optimization finished, #iter = 1000
+
+WARNING: reaching max number of iterations
+Using -s 2 may be faster (also see FAQ)
+
+Objective value = -236.644127
+nSV = 67982
+Accuracy = 62.9471% (44063/70000)
+Accuracy = 61.6581% (44265/71791)
+....................................................................................................
+optimization finished, #iter = 1000
+
+WARNING: reaching max number of iterations
+Using -s 2 may be faster (also see FAQ)
+
+Objective value = -237.924525
+nSV = 68016
+Accuracy = 60.4457% (42312/70000)
+Accuracy = 59.5994% (42787/71791)
+....................................................................................................
+optimization finished, #iter = 1000
+
+WARNING: reaching max number of iterations
+Using -s 2 may be faster (also see FAQ)
+
+Objective value = -238.086268
+nSV = 67982
+Accuracy = 60.1571% (42110/70000)
+Accuracy = 59.2428% (42531/71791)
+....................................................................................................
+optimization finished, #iter = 1000
+
+WARNING: reaching max number of iterations
+Using -s 2 may be faster (also see FAQ)
+
+Objective value = -238.099763
+nSV = 67983
+Accuracy = 60.1571% (42110/70000)
+Accuracy = 59.2414% (42530/71791)
+................*......**.
+optimization finished, #iter = 230
+Objective value = -2.363048
+nSV = 64540
+Accuracy = 69.7643% (48835/70000)
+Accuracy = 67.801% (48675/71791)
+....................................................................................................
+optimization finished, #iter = 1000
+
+WARNING: reaching max number of iterations
+Using -s 2 may be faster (also see FAQ)
+
+Objective value = -23.606985
+nSV = 64694
+Accuracy = 69.7429% (48820/70000)
+Accuracy = 67.723% (48619/71791)
+....................................................................................................
+optimization finished, #iter = 1000
+
+WARNING: reaching max number of iterations
+Using -s 2 may be faster (also see FAQ)
+
+Objective value = -140.095685
+nSV = 67332
+Accuracy = 65.82% (46074/70000)
+Accuracy = 64.327% (46181/71791)
+....................................................................................................
+optimization finished, #iter = 1000
+
+WARNING: reaching max number of iterations
+Using -s 2 may be faster (also see FAQ)
+
+Objective value = -222.487490
+nSV = 67982
+Accuracy = 60.7214% (42505/70000)
+Accuracy = 61.3559% (44048/71791)
+....................................................................................................
+optimization finished, #iter = 1000
+
+WARNING: reaching max number of iterations
+Using -s 2 may be faster (also see FAQ)
+
+Objective value = -236.462654
+nSV = 67991
+Accuracy = 61.3057% (42914/70000)
+Accuracy = 61.2208% (43951/71791)
+....................................................................................................
+optimization finished, #iter = 1000
+
+WARNING: reaching max number of iterations
+Using -s 2 may be faster (also see FAQ)
+
+Objective value = -237.905991
+nSV = 68016
+Accuracy = 60.4529% (42317/70000)
+Accuracy = 59.598% (42786/71791)
+....................................................................................................
+optimization finished, #iter = 1000
+
+WARNING: reaching max number of iterations
+Using -s 2 may be faster (also see FAQ)
+
+Objective value = -238.084411
+nSV = 67982
+Accuracy = 60.1571% (42110/70000)
+Accuracy = 59.2414% (42530/71791)
+....................................................................................................
+optimization finished, #iter = 1000
+
+WARNING: reaching max number of iterations
+Using -s 2 may be faster (also see FAQ)
+
+Objective value = -238.099577
+nSV = 67982
+Accuracy = 60.1571% (42110/70000)
+Accuracy = 59.2414% (42530/71791)
+...............***
+optimization finished, #iter = 158
+Objective value = -1.679448
+nSV = 60980
+Accuracy = 65.7386% (46017/70000)
+Accuracy = 63.0051% (45232/71791)
+....................................................................................................
+optimization finished, #iter = 1000
+
+WARNING: reaching max number of iterations
+Using -s 2 may be faster (also see FAQ)
+
+Objective value = -16.784089
+nSV = 61135
+Accuracy = 65.8714% (46110/70000)
+Accuracy = 63.1138% (45310/71791)
+....................................................................................................
+optimization finished, #iter = 1000
+
+WARNING: reaching max number of iterations
+Using -s 2 may be faster (also see FAQ)
+
+Objective value = -111.654807
+nSV = 65328
+Accuracy = 64.3814% (45067/70000)
+Accuracy = 62.5468% (44903/71791)
+....................................................................................................
+optimization finished, #iter = 1000
+
+WARNING: reaching max number of iterations
+Using -s 2 may be faster (also see FAQ)
+
+Objective value = -210.163807
+nSV = 67667
+Accuracy = 58.9586% (41271/70000)
+Accuracy = 59.1328% (42452/71791)
+....................................................................................................
+optimization finished, #iter = 1000
+
+WARNING: reaching max number of iterations
+Using -s 2 may be faster (also see FAQ)
+
+Objective value = -234.653633
+nSV = 68000
+Accuracy = 60.5586% (42391/70000)
+Accuracy = 58.343% (41885/71791)
+....................................................................................................
+optimization finished, #iter = 1000
+
+WARNING: reaching max number of iterations
+Using -s 2 may be faster (also see FAQ)
+
+Objective value = -237.767933
+nSV = 68071
+Accuracy = 54.8314% (38382/70000)
+Accuracy = 53.4022% (38338/71791)
+....................................................................................................
+optimization finished, #iter = 1000
+
+WARNING: reaching max number of iterations
+Using -s 2 may be faster (also see FAQ)
+
+Objective value = -238.065823
+nSV = 67981
+Accuracy = 60.1686% (42118/70000)
+Accuracy = 59.247% (42534/71791)
+....................................................................................................
+optimization finished, #iter = 1000
+
+WARNING: reaching max number of iterations
+Using -s 2 may be faster (also see FAQ)
+
+Objective value = -238.097717
+nSV = 67982
+Accuracy = 60.1571% (42110/70000)
+Accuracy = 59.24% (42529/71791)
+..............*
+optimization finished, #iter = 142
+Objective value = -0.794488
+nSV = 54130
+Accuracy = 55.2443% (38671/70000)
+Accuracy = 52.3617% (37591/71791)
+....................................................................................................
+optimization finished, #iter = 1000
+
+WARNING: reaching max number of iterations
+Using -s 2 may be faster (also see FAQ)
+
+Objective value = -7.940467
+nSV = 54198
+Accuracy = 55.2514% (38676/70000)
+Accuracy = 52.3743% (37600/71791)
+....................................................................................................
+optimization finished, #iter = 1000
+
+WARNING: reaching max number of iterations
+Using -s 2 may be faster (also see FAQ)
+
+Objective value = -56.752869
+nSV = 58005
+Accuracy = 55.4929% (38845/70000)
+Accuracy = 52.2949% (37543/71791)
+....................................................................................................
+optimization finished, #iter = 1000
+
+WARNING: reaching max number of iterations
+Using -s 2 may be faster (also see FAQ)
+
+Objective value = -129.483882
+nSV = 62269
+Accuracy = 55.62% (38934/70000)
+Accuracy = 53.4719% (38388/71791)
+....................................................................................................
+optimization finished, #iter = 1000
+
+WARNING: reaching max number of iterations
+Using -s 2 may be faster (also see FAQ)
+
+Objective value = -177.889313
+nSV = 65030
+Accuracy = 57.8057% (40464/70000)
+Accuracy = 58.3012% (41855/71791)
+Accuracy = 57.4957% (40247/70000)
+Accuracy = 56.3594% (40461/71791)
+....................................................................................................
+optimization finished, #iter = 1000
+
+WARNING: reaching max number of iterations
+Using -s 2 may be faster (also see FAQ)
+
+Objective value = -229.581637
+nSV = 67649
+Accuracy = 58.2143% (40750/70000)
+Accuracy = 57.3777% (41192/71791)
+....................................................................................................
+optimization finished, #iter = 1000
+
+WARNING: reaching max number of iterations
+Using -s 2 may be faster (also see FAQ)
+
+Objective value = -235.754879
+nSV = 67943
+Accuracy = 61.1929% (42835/70000)
+Accuracy = 59.9852% (43064/71791)
+.............**
+optimization finished, #iter = 139
+Objective value = -0.277139
+nSV = 48477
+Accuracy = 51.2929% (35905/70000)
+Accuracy = 49.4533% (35503/71791)
+....................................................................................................
+optimization finished, #iter = 1000
+
+WARNING: reaching max number of iterations
+Using -s 2 may be faster (also see FAQ)
+
+Objective value = -2.769523
+nSV = 48525
+Accuracy = 51.3014% (35911/70000)
+Accuracy = 49.4547% (35504/71791)
+....................................................................................................
+optimization finished, #iter = 1000
+
+WARNING: reaching max number of iterations
+Using -s 2 may be faster (also see FAQ)
+
+Objective value = -20.876214
+nSV = 53219
+Accuracy = 53.0757% (37153/70000)
+Accuracy = 50.6999% (36398/71791)
+....................................................................................................
+optimization finished, #iter = 1000
+
+WARNING: reaching max number of iterations
+Using -s 2 may be faster (also see FAQ)
+
+Objective value = -54.265860
+nSV = 57289
+Accuracy = 57.8443% (40491/70000)
+Accuracy = 54.8258% (39360/71791)
+....................................................................................................
+optimization finished, #iter = 1000
+
+WARNING: reaching max number of iterations
+Using -s 2 may be faster (also see FAQ)
+
+Objective value = -83.019277
+nSV = 59319
+Accuracy = 63.4643% (44425/70000)
+Accuracy = 61.413% (44089/71791)
+....................................................................................................
+optimization finished, #iter = 1000
+
+WARNING: reaching max number of iterations
+Using -s 2 may be faster (also see FAQ)
+
+Objective value = -105.763379
+nSV = 60638
+Accuracy = 65.78% (46046/70000)
+Accuracy = 63.2141% (45382/71791)
+....................................................................................................
+optimization finished, #iter = 1000
+
+WARNING: reaching max number of iterations
+Using -s 2 may be faster (also see FAQ)
+
+Objective value = -124.401895
+nSV = 61291
+Accuracy = 60.4186% (42293/70000)
+Accuracy = 58.1633% (41756/71791)
+....................................................................................................
+optimization finished, #iter = 1000
+
+WARNING: reaching max number of iterations
+Using -s 2 may be faster (also see FAQ)
+
+Objective value = -139.024637
+nSV = 61995
+Accuracy = 62.5086% (43756/70000)
+Accuracy = 62.8449% (45117/71791)
+Accuracy = 0% (0/169)
+Accuracy = 0% (0/169)
