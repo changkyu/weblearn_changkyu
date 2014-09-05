@@ -8,7 +8,7 @@ The project is based on the Yangqing's DeCAF project and employs his code publis
 (please refer software/3rdparty/decaf)
 
 ****************
-* Requirements *
+* Requirements
 
 To run this code, you should install python, ipython and related libraries.
 (You may be able to find those libraries on the web very easily, or some tools allow you install them automatically)
@@ -16,7 +16,7 @@ To run this code, you should install python, ipython and related libraries.
 And also it uses a libsvm tool, liblinear-weights-1.94 (http://www.csie.ntu.edu.tw/~cjlin/libsvmtools/)
 
 *****************************************
-* Simple Description of the source code *
+* Simple Description of the source code
 
 changkyu.py: main script to train/test. You should correct some pathes in this file. (ex> the path of dataset)
 ObjectDetector.py: detect object
@@ -25,7 +25,7 @@ download_images.py: a tool to download and rename images from web
 objdet_mil.py: not implemented yet
 
 *******
-* Run *
+* Run
 
 1) Run ipython
 ipython --matplotlib
@@ -37,6 +37,6 @@ Then the main function will be excuted automatically, and it will run training/t
 If you want to edit the training/testing process, you can edit the main() function in changkyu.py
 
 ***********
-* Results *
+* Results
 
 The detection results would be stored at software/results/
