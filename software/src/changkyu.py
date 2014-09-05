@@ -16,7 +16,7 @@ SIZE_IMAGE     = 227#256
 # Path Setting
 PATH_HOME=expanduser("~")
 
-PATH_WEBLEARN          = PATH_HOME+"/projects/web_learn/software"
+PATH_WEBLEARN          = PATH_HOME+"/projects/weblearn_changkyu/software"
 PATH_WEBLEARN_SAVE     = PATH_WEBLEARN+'/save'
 PATH_WEBLEARN_RESULTS  = PATH_WEBLEARN+'/results'
 
@@ -79,7 +79,7 @@ fvi_pool5         = FeatVecInfo('pool5_cudanet_out', 6, 6, 256)
 RANGE_FVI = [fvi_conv1_neuron, fvi_rnorm1, fvi_conv2_neuron, fvi_rnorm2, fvi_conv3_neuron, fvi_conv4_neuron, fvi_conv5_neuron, fvi_pool5]
 
 
-PATH_DATASET          = PATH_HOME     + "/dataset"
+PATH_DATASET          = PATH_WEBLEARN + "/../dataset"
 PATH_IMAGENET         = PATH_DATASET  + "/imagenet"
 PATH_FMT_IMAGES_TRAIN = PATH_IMAGENET + "/images/%s/train"
 PATH_FMT_IMAGES_TEST  = PATH_IMAGENET + "/images/%s/test"
